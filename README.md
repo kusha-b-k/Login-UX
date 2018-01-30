@@ -8,9 +8,6 @@ Login page UX design for Iphone X and Android
 
 
 # Iphone X
-
-
 ![alt tag](https://cdn.rawgit.com/kusha-b-k/Login-UX/27e929a1/LoginUX/i-phoneX.png)
-
 ![alt tag](https://cdn.rawgit.com/kusha-b-k/Login-UX/6023f603/LoginUX/UXiphoneX.png)
 
