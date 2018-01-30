@@ -1,6 +1,7 @@
 # Login-UX
 Login page UX design for Iphone X and Android
 
+![alt tag](https://cdn.rawgit.com/kusha-b-k/Login-UX/1c5a66b4/LoginUX/UxDesing.png)
 
 # Android Phone
 ![alt tag](https://cdn.rawgit.com/kusha-b-k/Login-UX/b852c4ac/LoginUX/Androd.png)
